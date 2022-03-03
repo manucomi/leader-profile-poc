@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.capaiblity-card-container {
+  @apply min-h-[140px] rounded-md border-8 p-[1px];
+}
+
+.capaiblity-card-header {
+  @apply flex justify-between space-x-2 px-3 pt-1 pb-3 text-white;
+}
