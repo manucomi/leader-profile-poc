@@ -7,5 +7,5 @@
 }
 
 .capaiblity-card-header {
-  @apply flex justify-between space-x-2 px-3 pt-1 pb-3 text-white;
+  @apply flex max-h-14 justify-between space-x-2 px-3 pt-1 pb-3 text-white;
 }
